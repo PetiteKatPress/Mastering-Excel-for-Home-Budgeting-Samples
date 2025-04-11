@@ -1,27 +1,19 @@
+'--- cmbPayPeriods_Change ---
 Sub cmbPayPeriods_Change()
-    Dim oDoc As Object
-    Dim oSheet As Object
-    Dim iSelection As Integer
+    Dim iSelection As String
     Dim iValue As Integer
 
-    oDoc = ThisComponent
-    oSheet = oDoc.CurrentController.ActiveSheet
-
-    iSelection = oSheet.getCellRangeByName("M5").Value
+    iSelection = Worksheets("Expenses - Budget").Range("M5")
 
     Select Case iSelection
-        Case 1
-            iValue = 1
-        Case 2
-            iValue = 12
-        Case 3
-            iValue = 26
-        Case 4
-            iValue = 52
+        Case "Year": iValue = 1
+        Case "Month": iValue = 12
+        Case "Fortnight": iValue = 26
+        Case "Week": iValue = 52
         Case Else
-            MsgBox "Expected values are 1, 2, 3 or 4", 48, "Invalid Selection"
+            MsgBox "Unexpected value selected. Please choose Year, Month, Fortnight, or Week.", vbExclamation
             Exit Sub
     End Select
 
-    oSheet.getCellRangeByName("N5").Value = iValue
+    Worksheets("Expenses - Budget").Range("N5") = iValue
 End Sub
