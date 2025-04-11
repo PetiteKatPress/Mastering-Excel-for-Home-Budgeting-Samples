@@ -1,0 +1,13 @@
+﻿Weekly Income,ClaimingTFT,Taxable,Expected Result,Actual Result
+340,Y,Y,0,
+340,Y,N,0,
+340,N,Y,64.6,
+340,N,N,0,
+1000,Y,Y,161.66,
+1000,Y,N,0,
+1000,N,Y,228.16,
+1000,N,N,0,
+10000,Y,Y,1799.34,
+10000,Y,N,0,
+10000,N,Y,1865.84,
+10000,N,N,0,
