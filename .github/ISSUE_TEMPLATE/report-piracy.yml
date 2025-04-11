@@ -1,0 +1,22 @@
+name: Report Piracy
+description: Report unauthorized distribution or piracy of the book and its materials.
+title: "[Piracy Report] Describe the issue"
+labels: [piracy]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **Please provide the following details to help us investigate this piracy report.**
+  - type: textarea
+    id: piracy_details
+    attributes:
+      label: Describe the issue
+      description: Include URLs, platforms, or any evidence of piracy.
+      placeholder: Provide detailed information about the piracy.
+      value: "URL/Platform where piracy was detected:"
+  - type: textarea
+    id: additional_info
+    attributes:
+      label: Additional Information
+      description: Include screenshots, timestamps, or other supporting details.
+      placeholder: Optional additional details.
