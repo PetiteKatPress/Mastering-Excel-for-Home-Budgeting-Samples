@@ -1,10 +1,16 @@
-'--- cmbPayPeriods_Change ---
+'--- cmbPayPeriods_Change - LibreOffice Version ---
+' Tested: April 13, 2025 - Working
+
 Sub cmbPayPeriods_Change()
+
+	'--- Variable Declarations ---
     Dim iSelection As String
     Dim iValue As Integer
 
+	'--- Set Direct Range References ---
     iSelection = Worksheets("Expenses - Budget").Range("M5")
 
+    '--- Examine users selection, store pay periods in variable ---
     Select Case iSelection
         Case "Year": iValue = 1
         Case "Month": iValue = 12
@@ -15,5 +21,7 @@ Sub cmbPayPeriods_Change()
             Exit Sub
     End Select
 
+	'--- Update worksheet with pay periods, will auto trigger a recalculation in sheet ---
     Worksheets("Expenses - Budget").Range("N5") = iValue
+    
 End Sub
