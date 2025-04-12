@@ -1,3 +1,8 @@
+'Attribute VBA_ModuleType=VBAModule
+'The following line MUST be at the top of each module in Libre to provide VBA Support
+Option VBASupport 1
+' VBA Module - LibreOffice Specific Version
+
 '--- cmbPayPeriods_Change - LibreOffice Version ---
 ' Tested: April 13, 2025 - Working
 
