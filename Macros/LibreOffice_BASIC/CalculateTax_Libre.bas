@@ -1,3 +1,4 @@
+'Tested April 13, 2025 - Working
 Public Function CalculateTax(WeeklyIncome As Long, ClaimingTFT As String, Taxable As String) As Double
     On Error GoTo ErrorHandler
 
