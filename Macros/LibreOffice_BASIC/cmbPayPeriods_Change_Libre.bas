@@ -21,8 +21,10 @@ Sub cmbPayPeriods_Change()
         Case "Month": iValue = 12
         Case "Fortnight": iValue = 26
         Case "Week": iValue = 52
+        Case "Quarter": iValue = 4
+        Case "BiAnnual": iValue = 2
         Case Else
-            MsgBox "Unexpected value selected. Please choose Year, Month, Fortnight, or Week.", vbExclamation
+            MsgBox "Unexpected value selected. Please choose Year,BiAnnual, Quarter, Month, Fortnight, or Week.", vbExclamation
             Exit Sub
     End Select
 
