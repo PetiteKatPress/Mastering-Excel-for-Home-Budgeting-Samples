@@ -1,0 +1,14 @@
+name: 💬 Leave Feedback
+description: Share your thoughts, ideas, or suggestions for the book.
+title: "[Feedback] "
+labels: [feedback]
+body:
+  - type: textarea
+    attributes:
+      label: What's on your mind?
+      description: Let us know what you liked, what could be improved, or any general thoughts.
+      placeholder: e.g. I really liked the way formulas were explained in WS3...
+  - type: input
+    attributes:
+      label: (Optional) Your name or initials
+      description: Leave blank to remain anonymous
