@@ -11,7 +11,7 @@ These files are designed to enhance your learning experience as you progress thr
 
 ## 📥 Download the Spreadsheets
 
-Download the latest version of the budgeting workbooks via GitHub Releases:
+Download the latest and complete version of the budgeting workbooks via GitHub Releases:
 
 - [Excel (.xlsx)](https://github.com/PetiteKatPress/Mastering-Excel-for-Home-Budgeting-Samples/releases/latest/download/BudgetTemplate_Excel.xlsm)
 - [LibreOffice (.ods)](https://github.com/PetiteKatPress/Mastering-Excel-for-Home-Budgeting-Samples/releases/latest/download/BudgetTemplate_Libre.ods)
