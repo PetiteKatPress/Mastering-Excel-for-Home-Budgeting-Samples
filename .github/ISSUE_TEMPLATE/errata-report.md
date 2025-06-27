@@ -6,7 +6,7 @@ labels: errata
 assignees: PetiteKatPress
 ---
 
-**Description of the Issue:**
+**xxxDescription of the Issue:**
 (Provide a clear and concise description of the error or issue.)
 
 ## **Location of the Issue:**
