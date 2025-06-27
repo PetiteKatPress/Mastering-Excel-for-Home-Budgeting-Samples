@@ -64,7 +64,7 @@ We strive to provide accurate and high-quality material, but errors can happen. 
 - **General Feedback**: All feedback will be reviewed but ongoing maintenance will be kept minimal.
 
 ### Transparency
-You can track the progress of reported issues under the [https://github.com/PetiteKatPress/Mastering-Excel-for-Home-Budgeting-Samples/issues) tab.
+You can track the progress of reported issues under the [Issues](https://github.com/PetiteKatPress/Mastering-Excel-for-Home-Budgeting-Samples/issues) tab.
 
 ---
 
