@@ -9,16 +9,28 @@ These files are designed to enhance your learning experience as you progress thr
 
 ---
 
-## About This Repository
+## 📥 Download the Spreadsheets
 
-This repository provides:
-- 📄 Sample Excel and LibreOffice workbooks for various chapters.
-- 🛠️ Step-by-step examples and practice files.
-- 🧩 Ready-to-use templates.
-- ⚙️ Macros for Excel (VBA) and LibreOffice (BASIC).
-- 📚 Resources that help you create and customize your own home budget application.
+Download the latest version of the budgeting workbooks via GitHub Releases:
+
+- [Excel (.xlsx)](https://github.com/PetiteKatPress/Mastering-Excel-for-Home-Budgeting-Samples/releases/latest/download/BudgetTemplate_Excel.xlsx)
+- [LibreOffice (.ods)](https://github.com/PetiteKatPress/Mastering-Excel-for-Home-Budgeting-Samples/releases/latest/download/BudgetTemplate_Libre.ods)
 
 ---
+
+## 🔓 Unlock Instructions
+
+To unlock protected sheets and view formulas:
+
+1. Open the book and locate the section titled **“Keeping Records”**
+2. Find the **first paragraph** under that heading
+3. The **7th word** in that paragraph is your password
+4. Enter it exactly (case-sensitive) when prompted
+
+This light protection helps prevent accidental changes while giving full access to readers of the book.
+
+---
+
 ## 📂 Folder Structure and Descriptions
 
 - 📁 **Sample_Files** — Example workbooks created while working through the book (Excel and LibreOffice formats).
@@ -68,6 +80,3 @@ You can track the progress of reported issues under the [Issues](https://github.
 ## Thank You!
 
 We appreciate your interest in *Mastering Excel for Home Budgeting* and hope you enjoy building your personalized budgeting system!
-
----
-
