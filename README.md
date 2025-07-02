@@ -9,7 +9,7 @@ These files are designed to enhance your learning experience as you progress thr
 
 ---
 
-## 📥 Download the Spreadsheets
+## 📥 Download the Spreadsheets 
 
 Download the latest and complete version of the budgeting workbooks via GitHub Releases:
 
