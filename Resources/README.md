@@ -23,6 +23,17 @@ These resources provide visual aids, formatting tips, and reference documents to
 
 ---
 
+💬 **Enjoying the book or finding the templates useful?**
+
+Leaving a quick review on Amazon helps more readers discover it — and keeps independent publishing alive.  
+If you have a moment, you can share your thoughts here:
+
+🌟 [Leave a review on Amazon](https://www.amazon.com.au/review/create-review?&asin=B0FF377S6T)
+
+Thank you for the support!
+
+---
+
 If you’ve downloaded the full repository or accessed it via a QR code in the book, this folder is a great place to explore for practical enhancements and customization ideas.
 
 *Thanks for reading and for supporting independent publishing!*
