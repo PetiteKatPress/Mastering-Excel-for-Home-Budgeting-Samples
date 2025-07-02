@@ -17,5 +17,16 @@ Using these files as a reference — only when you need help — will help you u
 
 ---
 
+💬 **Enjoying the book or finding the templates useful?**
+
+Leaving a quick review on Amazon helps more readers discover it — and keeps independent publishing alive.  
+If you have a moment, you can share your thoughts here:
+
+🌟 [Leave a review on Amazon](https://www.amazon.com.au/review/create-review?&asin=B0FF377S6T)
+
+Thank you for the support!
+
+---
+
 Happy budgeting and happy learning!  
 — The Mastering Excel for Home Budgeting Team
