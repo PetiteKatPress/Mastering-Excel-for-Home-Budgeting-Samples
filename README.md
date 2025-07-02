@@ -91,3 +91,7 @@ Thank you for the support!
 ## Thank You!
 
 We appreciate your interest in *Mastering Excel for Home Budgeting* and hope you enjoy building your personalized budgeting system!
+
+📚 **More Books by the Author**  
+Explore other PetiteKat Press titles: [PetiteKatPress-Publications](https://github.com/PetiteKatPress/PetiteKatPress-Publications)
+
