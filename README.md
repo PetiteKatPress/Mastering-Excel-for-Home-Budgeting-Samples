@@ -77,6 +77,17 @@ You can track the progress of reported issues under the [Issues](https://github.
 
 ---
 
+💬 **Enjoying the book or finding the templates useful?**
+
+Leaving a quick review on Amazon helps more readers discover it — and keeps independent publishing alive.  
+If you have a moment, you can share your thoughts here:
+
+🌟 [Leave a review on Amazon](https://www.amazon.com.au/review/create-review?&asin=B0FF377S6T)
+
+Thank you for the support!
+
+---
+
 ## Thank You!
 
 We appreciate your interest in *Mastering Excel for Home Budgeting* and hope you enjoy building your personalized budgeting system!
