@@ -84,6 +84,12 @@ If you have a moment, you can share your thoughts here:
 
 🌟 [Leave a review on Amazon](https://www.amazon.com.au/review/create-review?&asin=B0FF377S6T)
 
+---
+
+ℹ️ Note on image quality and formatting limitations is available [here](https://github.com/PetiteKatPress/Mastering-Excel-for-Home-Budgeting-Samples/issues/xx).
+
+---
+
 Thank you for the support!
 
 ---
