@@ -65,7 +65,6 @@ We strive to provide accurate and high-quality material, but errors can happen. 
 
 ### Transparency
 You can track the progress of reported issues under the [Issues](https://github.com/PetiteKatPress/Mastering-Excel-for-Home-Budgeting-Samples/issues) tab.
-
 Note on image quality and formatting limitations is available [here](https://github.com/PetiteKatPress/Mastering-Excel-for-Home-Budgeting-Samples/issues/5).
 ---
 
