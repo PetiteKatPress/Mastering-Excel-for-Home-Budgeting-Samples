@@ -66,6 +66,7 @@ We strive to provide accurate and high-quality material, but errors can happen. 
 ### Transparency
 You can track the progress of reported issues under the [Issues](https://github.com/PetiteKatPress/Mastering-Excel-for-Home-Budgeting-Samples/issues) tab.
 
+Note on image quality and formatting limitations is available [here](https://github.com/PetiteKatPress/Mastering-Excel-for-Home-Budgeting-Samples/issues/5).
 ---
 
 ## Important Notes about Macros
@@ -83,10 +84,6 @@ Leaving a quick review on Amazon helps more readers discover it — and keeps in
 If you have a moment, you can share your thoughts here:
 
 🌟 [Leave a review on Amazon](https://www.amazon.com.au/review/create-review?&asin=B0FF377S6T)
-
----
-
-Note on image quality and formatting limitations is available [here](https://github.com/PetiteKatPress/Mastering-Excel-for-Home-Budgeting-Samples/issues/5).
 
 ---
 
