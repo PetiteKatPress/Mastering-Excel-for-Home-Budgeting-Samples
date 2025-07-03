@@ -86,7 +86,7 @@ If you have a moment, you can share your thoughts here:
 
 ---
 
-Note on image quality and formatting limitations is available [here](https://github.com/PetiteKatPress/Mastering-Excel-for-Home-Budgeting-Samples/issues/xx).
+Note on image quality and formatting limitations is available [here](https://github.com/PetiteKatPress/Mastering-Excel-for-Home-Budgeting-Samples/issues/5).
 
 ---
 
