@@ -20,7 +20,7 @@ Download the latest and complete version of the budgeting workbooks via GitHub R
 
 ## 🔓 Unlock Instructions
 
-To unlock protected **Excel spreadsheets** and access the free **GPT-powered Companion Agent**, you’ll need the password found in your copy of the book.
+To unlock protected **Excel spreadsheets** and to access the free **GPT-powered Companion Agent**, you’ll need the password found in your copy of the book.
 
 🧠 **Where to Find the Password**
 Open the book and locate the section titled **“Keeping Records”** (**Page 200** in printed book)
@@ -28,7 +28,7 @@ Find the **first paragraph** under that heading
 The **7th word** in that paragraph is your password (**case-sensitive**)
 
 🤖 **Access the Companion Agent**
-Ask spreadsheet-related questions while working through the book:  
+Ask **spreadsheet-related** questions while working through the book:  
 👉 [Launch the Companion Agent](https://excel-companion-agent-aysoagu94y8dhugeopabzf.streamlit.app)
 
 You'll be prompted to enter the same password for access. 
