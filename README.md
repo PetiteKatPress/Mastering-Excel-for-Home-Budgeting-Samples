@@ -33,6 +33,8 @@ Ask spreadsheet-related questions while working through the book:
 
 You'll be prompted to enter the same password for access. 
 Once unlocked, the agent will assist with **Excel and LibreCalc** concepts only.
+### 🔗 Bonus Tip  
+Right-click the link above and choose **“Open in new tab”** for the best experience alongside Excel.
 
 This light protection helps prevent accidental changes while giving full access to readers of the book.
 
