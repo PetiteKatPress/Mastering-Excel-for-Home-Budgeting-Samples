@@ -29,7 +29,7 @@ The **7th word** in that paragraph is your password (**case-sensitive**)
 
 🤖 **Access the Companion Agent**
 Ask spreadsheet-related questions while working through the book:
-🔗 https://excel-companion-agent-aysoagu94y8dhugeopabzf.streamlit.app
+🔗 [Launch the Companion Agent] (https://excel-companion-agent-aysoagu94y8dhugeopabzf.streamlit.app)
 
 You'll be prompted to enter the same password above for access.
 Once unlocked, the agent will assist with **Excel and LibreCalc** concepts only.
