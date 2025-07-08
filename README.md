@@ -20,12 +20,19 @@ Download the latest and complete version of the budgeting workbooks via GitHub R
 
 ## 🔓 Unlock Instructions
 
-To unlock protected sheets and view formulas:
+To unlock protected **Excel spreadsheets** and access the free **GPT-powered Companion Agent**, you’ll need the password found in your copy of the book.
 
-1. Open the book and locate the section titled **“Keeping Records”**
-2. Find the **first paragraph** under that heading
-3. The **7th word** in that paragraph is your password
-4. Enter it exactly (case-sensitive) when prompted
+🧠 **Where to Find the Password**
+Open the book and locate the section titled **“Keeping Records”** (**Page 200** in printed book)
+Find the **first paragraph** under that heading
+The **7th word** in that paragraph is your password (**case-sensitive**)
+
+🤖 **Access the Companion Agent**
+Ask spreadsheet-related questions while working through the book:
+🔗 https://excel-companion-agent-aysoagu94y8dhugeopabzf.streamlit.app
+
+You'll be prompted to enter the same password above for access.
+Once unlocked, the agent will assist with **Excel and LibreCalc** concepts only.
 
 This light protection helps prevent accidental changes while giving full access to readers of the book.
 
