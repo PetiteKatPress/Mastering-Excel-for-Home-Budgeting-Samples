@@ -106,6 +106,7 @@ Public Sub ArchiveSheetWithValues()
     If Not ThisWorkbook.Saved Then Err.Raise vbObjectError + 2009, , "Excel did not confirm that the workbook was saved."
     
     'Otherwise, Yes...report that too
+    ws.Activate
     completed = True
     report = "Archive saved successfully: " & newName & vbCrLf & ThisWorkbook.FullName
     
