@@ -24,6 +24,8 @@ Public Function CalculateTax(WeeklyIncome As Long, ClaimingTFT As String, Taxabl
     Dim BracketTax As Double
     Dim NetPay As Double
     Dim TaxableIncome As Double
+    Dim TaxRowIndex As Long
+    Dim TaxRowCount As Long
 
     '--- Set Direct Range References ---
     Set TaxTable = Worksheets("Lookup Tables").Range("B10:H14")
@@ -51,6 +53,7 @@ Public Function CalculateTax(WeeklyIncome As Long, ClaimingTFT As String, Taxabl
     '--- Determine Tax Based on Brackets ---
     IsFirstRow = True
     For Each Row In TaxTable.Rows
+        TaxRowIndex = TaxRowIndex + 1
         LowerLimit = Row.Cells(1, 3).Value
         UpperLimit = Row.Cells(1, 4).Value
 
@@ -65,7 +68,7 @@ Public Function CalculateTax(WeeklyIncome As Long, ClaimingTFT As String, Taxabl
         End If
 
         If TaxableIncome > 0 Then
-            If TaxableIncome <= UpperLimit Or UpperLimit = 1000000 Then
+            If TaxableIncome <= UpperLimit Or TaxRowIndex = TaxRowCount Then
                 IncomeExcess = TaxableIncome - LowerLimit
                 TotalTax = TotalTax + (IncomeExcess * TaxRate)
                 Exit For
