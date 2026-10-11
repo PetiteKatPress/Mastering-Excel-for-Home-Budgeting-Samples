@@ -95,7 +95,7 @@ Public Function CalculateTax(WeeklyIncome As Long, ClaimingTFT As String, Taxabl
 
 '--- Normal Exit ---
 LeaveFunction:
-    CalculateTax = Round(TotalTax + PostTaxDeductions + NETDeductions, 2)
+    CalculateTax = Round(PreTaxDeductions + TotalTax + PostTaxDeductions + NETDeductions, 2)
     Exit Function
 
 '--- Error Handler ---
