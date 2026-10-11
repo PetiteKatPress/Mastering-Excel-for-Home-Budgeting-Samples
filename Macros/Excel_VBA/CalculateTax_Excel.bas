@@ -1,4 +1,7 @@
-Public Function CalculateTax(WeeklyIncome As Long, ClaimingTFT As String, Taxable As String) As Double
+Option Explicit
+
+Public Function CalculateTax(WeeklyIncome As Double, ClaimingTFT As String, Taxable As String) As Double
+
 
 '1. Details about the function
 '--------------------------------------------
@@ -9,7 +12,7 @@ Public Function CalculateTax(WeeklyIncome As Long, ClaimingTFT As String, Taxabl
 'Input parameters:
 '   WeeklyIncome:   The income we will calculate tax for, equivalent to one weeks income, whole dollars only
 '   ClaimingTFT:    Is the Tx Free Threshold be claimed, "Y" or "N"
-'   Taxable:        Is income taxable, "Y" or "N", function will just return a zero if this "Y"
+'   Taxable:        Is income taxable, "Y" or "N", function will just return a zero if this "N"
 '
 'Output:
 '   Function returns a Double type value representing the tax payable on the income based on parameters passed
@@ -31,6 +34,7 @@ Public Function CalculateTax(WeeklyIncome As Long, ClaimingTFT As String, Taxabl
     Dim NETDeductions As Double     'Deductions to come out of NET amount, donations
     Dim MedicareLevy As Double      'How much MedicareLEvy to pay
     Dim MedicareRate As Double      'The Medicare rate used to calculate the levy
+    Dim MedicareThreshold As Double 'Which
     Dim TotalTax As Double          'Total tax payable. includes all extras
     Dim IncomeExcess As Double      'Income over the brackets lower amount
     Dim TFTRate As Double           'This is the amount payable for the taxfree threshold
@@ -115,7 +119,8 @@ Public Function CalculateTax(WeeklyIncome As Long, ClaimingTFT As String, Taxabl
             'Test is less than or equal to the upper limit in the current bracket,
             '1000000 means we have reached the end tax brackets so everything earned above
             'this bracket is paid at this brackets rate
-            If TaxableIncome <= UpperLimit Or UpperLimit = 1000000 Then
+            If TaxableIncome <= UpperLimit Or _
+   Row.Row = TaxTable.Rows(TaxTable.Rows.Count).Row Then
                 'This is our top bracket for the income, calculate the tax on remaining income at this rate
                 IncomeExcess = TaxableIncome - LowerLimit
                 TotalTax = TotalTax + (IncomeExcess * TaxRate)
